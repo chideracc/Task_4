@@ -1,0 +1,50 @@
+.first_house {
+  
+  
+}
+
+.second_house {
+  border-color: aliceblue;
+  border: 10px;
+  text-align: justify;
+  background-color: rgba(248, 245, 244, 0.445);
+  padding: 15px;
+}
+
+.big_house {
+  display: flex; 
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  border: 2px;
+  border-width: thick;
+  border-color: blue;
+  background-color: rgb(228, 226, 226);
+}
+
+.dollars {
+  display: flex;
+}
+
+.dollar1 {
+  color: green;
+  padding: 5px;
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 50px;
+}
+
+.dollar2 {
+  text-decoration: line-through;
+  text-transform: lowercase;
+  padding: 5px;
+}
+
+button{
+  padding: 10px 80px;
+  margin: 3px;
+  background-color: green;
+  border-radius: 10px;
+
+  
+}
